@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "leo world",
+            "invocationName": "info bag",
             "intents": [
                 {
                     "name": "CommandBot",
